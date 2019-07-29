@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "forever start index.js --spinSleepTime 2000",
+    "start": "node index",
     "list": "forever list"
   },
   "repository": {
