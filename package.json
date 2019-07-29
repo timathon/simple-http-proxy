@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/timathon/simple-http-proxy#readme",
   "dependencies": {
-    "http-proxy": "^1.17.0"
+    "http-proxy": "^1.17.0",
+    "public-ip": "^3.1.0"
   }
 }
