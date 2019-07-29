@@ -1,0 +1,23 @@
+{
+  "name": "simple-http-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timathon/simple-http-proxy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timathon/simple-http-proxy/issues"
+  },
+  "homepage": "https://github.com/timathon/simple-http-proxy#readme",
+  "dependencies": {
+    "http-proxy": "^1.17.0"
+  }
+}
